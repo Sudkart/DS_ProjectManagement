@@ -1,1 +1,17 @@
-
+name:news_sanitization
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pandas
+  - scikit-learn
+  - tensorflow
+  - keras
+  - wordcloud
+  - matplotlib
+  - nltk
+bash
+conda env create -f environment.yml
+bash
+conda activate news_sanitization
