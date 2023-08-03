@@ -18,5 +18,5 @@
 
 # Deployment Links
 |:-:|
-| [![Tweet Deployment]](https://huggingface.co/spaces/Zeelubha/Football-Prediction)|
+| [![Tweet Deployment]](https://sampledeploymentpython.onrender.com/)|
 
