@@ -7,13 +7,13 @@
 |    :---    |    :----:   |
 | Sudharshan Karthik Godavarthi | 500208825 | 
 | Manoj Koppela | 500209521   | 
-| Vikas Reddy   | 500209828 |
+| Vikas Reddy Alluri   | 500209828 |
 | Satya Srinivas Sunkara |500208530 |
 | Rajesh Moturi | 500196903 |
-| Vanada Jyothi | 500208904 |
-| Yashwant Marneni      | 500195615 |
+| Vandana Jyothi Duggimpudi | 500208904 |
+| Yashwant Marineni      | 500195615 |
 | Varun Repakula | 500209832 |
-| Laxmi KesiReddy | 500208914 |
+| Laxmi KasiReddy | 500208914 |
 
 
 # Deployment Links
