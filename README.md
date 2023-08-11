@@ -13,7 +13,7 @@
 | Vanada Jyothi | 500208904 |
 | Yashwant Marneni      | 500195615 |
 | Varun Repakula | 500209832 |
-| Laxmi KesiReddy | 500208914 |
+| Laxmi KasiReddy | 500208914 |
 
 
 # Deployment Links
