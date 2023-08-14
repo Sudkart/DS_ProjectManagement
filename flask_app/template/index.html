@@ -3,27 +3,61 @@
 <html>
   <head>
     <title>Flask App</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        margin: 0;
+        padding: 0;
+      }
+
+      h1 {
+        text-align: center;
+        font-size: 32px;
+        margin-top: 20px;
+      }
+
+      input[type="text"] {
+        padding: 10px;
+        width: 60%;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 16px;
+      }
+
+      button {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
+        cursor: pointer;
+      }
+
+      button:hover {
+        background-color: #0056b3;
+      }
+
+      #result {
+        text-align: center;
+        margin-top: 20px;
+      }
+    </style>
   </head>
   <body>
-    <!-- Header with big label -->
-    <h1 style="text-align: center; font-size: 32px">Text Tweet Classifier</h1>
+    <h1>Text Tweet Classifier</h1>
 
-    <!-- Text box and button -->
     <div style="text-align: center">
       <input type="text" id="textbox" />
       <button onclick="submitData()">Submit</button>
     </div>
-    <br></br>
-    <div style="text-align: center">
-        <h1>The input text <span id="ïnputText" style="color: orangered;"></span> is classified as:</h1>
-        <div style="border: 1px solid black; margin: auto;
-        width: 50%;
-        border: 3px solid green;
-        padding: 10px;">
-          <h1><span id="sessionItemValue"></span></h1>
-        </div>
+    <br />
+    <div id="result">
+      <h1>The input text<span id="ïnputText" style="color: orangered;"></span> is classified as:</h1><span id="sessionItemValue"></span>
     </div>
-    <!-- Add any other content below if needed -->
+
+
   </body>
 </html>
 
@@ -40,4 +74,3 @@
     // Add any other logic here to handle the submitted data
   }
 </script>
-
